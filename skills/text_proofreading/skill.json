@@ -1,0 +1,8 @@
+
+{
+  "name": "text_proofreading",
+  "description": "文字校对技能，纠正转录文字中的错别字，优化语句通顺度，核实专有名词",
+  "entry": "skill.py",
+  "version": "1.0.0",
+  "author": "custom"
+}

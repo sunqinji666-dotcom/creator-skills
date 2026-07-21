@@ -1,0 +1,8 @@
+
+{
+  "name": "video_download",
+  "description": "视频下载工具，支持 B 站、YouTube 等 1000+ 网站，使用 yt-dlp",
+  "entry": "skill.py",
+  "version": "1.0.0",
+  "author": "custom"
+}

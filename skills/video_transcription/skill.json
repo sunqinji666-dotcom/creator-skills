@@ -1,0 +1,8 @@
+
+{
+  "name": "video_transcription",
+  "description": "视频语音转录文字，使用 OpenAI Whisper，支持批量并行转录",
+  "entry": "skill.py",
+  "version": "1.0.0",
+  "author": "custom"
+}

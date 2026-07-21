@@ -1,0 +1,8 @@
+
+{
+  "name": "video_search",
+  "description": "多模态视频向量检索技能，支持语义搜索、相似推荐和自动聚类，使用火山引擎 API",
+  "entry": "skill.py",
+  "version": "1.0.0",
+  "author": "custom"
+}

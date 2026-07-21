@@ -1,0 +1,8 @@
+
+{
+  "name": "fetch_url",
+  "description": "无头浏览器获取网页内容技能，支持 JS 渲染、手机模拟、代理访问、Cookie 登录",
+  "entry": "skill.py",
+  "version": "1.0.0",
+  "author": "custom"
+}
