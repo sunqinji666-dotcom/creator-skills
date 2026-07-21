@@ -4,7 +4,7 @@
 
 Contact: **Jacksun** · [qinji@jack-sun.com](mailto:qinji@jack-sun.com)
 
-![Creator Skills 主视觉：创作技能、转录与自动化模块的概念示意。](docs/assets/hero-system-v1.png)
+![creator-skills project visual](docs/assets/creator-skills-hero.png)
 
 每个技能都独立存放在 `skills/` 下，并通过环境变量或命令行工具接入本地依赖。仓库不包含 API 密钥、Cookie、个人路径或账户配置。
 

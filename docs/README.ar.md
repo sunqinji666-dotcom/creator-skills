@@ -2,7 +2,7 @@
 
 Reusable, privacy-aware skills and workflows for creative production.
 
-![Project visual](docs/assets/hero-system-v1.png)
+![creator-skills project visual](assets/creator-skills-hero.png)
 
 Language: العربية. See the [English guide](README.en.md) or [中文首页](../README.md) for setup, privacy, and contribution details.
 

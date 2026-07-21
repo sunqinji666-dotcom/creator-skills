@@ -2,7 +2,7 @@
 
 Reusable, privacy-aware skills and workflows for creative production.
 
-![プロジェクトのビジュアル](docs/assets/hero-system-v1.png)
+![creator-skills project visual](assets/creator-skills-hero.png)
 
 ## できること
 
